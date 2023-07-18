@@ -1,0 +1,15 @@
+/Users/zakuro/Projects/Leetcode_4/Leetcode_4/obj/Debug/net7.0/Leetcode_4.csproj.AssemblyReference.cache
+/Users/zakuro/Projects/Leetcode_4/Leetcode_4/obj/Debug/net7.0/Leetcode_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zakuro/Projects/Leetcode_4/Leetcode_4/obj/Debug/net7.0/Leetcode_4.AssemblyInfoInputs.cache
+/Users/zakuro/Projects/Leetcode_4/Leetcode_4/obj/Debug/net7.0/Leetcode_4.AssemblyInfo.cs
+/Users/zakuro/Projects/Leetcode_4/Leetcode_4/obj/Debug/net7.0/Leetcode_4.csproj.CoreCompileInputs.cache
+/Users/zakuro/Projects/Leetcode_4/Leetcode_4/bin/Debug/net7.0/Leetcode_4
+/Users/zakuro/Projects/Leetcode_4/Leetcode_4/bin/Debug/net7.0/Leetcode_4.deps.json
+/Users/zakuro/Projects/Leetcode_4/Leetcode_4/bin/Debug/net7.0/Leetcode_4.runtimeconfig.json
+/Users/zakuro/Projects/Leetcode_4/Leetcode_4/bin/Debug/net7.0/Leetcode_4.dll
+/Users/zakuro/Projects/Leetcode_4/Leetcode_4/bin/Debug/net7.0/Leetcode_4.pdb
+/Users/zakuro/Projects/Leetcode_4/Leetcode_4/obj/Debug/net7.0/Leetcode_4.dll
+/Users/zakuro/Projects/Leetcode_4/Leetcode_4/obj/Debug/net7.0/refint/Leetcode_4.dll
+/Users/zakuro/Projects/Leetcode_4/Leetcode_4/obj/Debug/net7.0/Leetcode_4.pdb
+/Users/zakuro/Projects/Leetcode_4/Leetcode_4/obj/Debug/net7.0/Leetcode_4.genruntimeconfig.cache
+/Users/zakuro/Projects/Leetcode_4/Leetcode_4/obj/Debug/net7.0/ref/Leetcode_4.dll

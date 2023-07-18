@@ -1,0 +1,15 @@
+/Users/zakuro/Desktop/Leetcode/Leetcode5/Leetcode5/obj/Debug/net7.0/Leetcode5.csproj.AssemblyReference.cache
+/Users/zakuro/Desktop/Leetcode/Leetcode5/Leetcode5/obj/Debug/net7.0/Leetcode5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zakuro/Desktop/Leetcode/Leetcode5/Leetcode5/obj/Debug/net7.0/Leetcode5.AssemblyInfoInputs.cache
+/Users/zakuro/Desktop/Leetcode/Leetcode5/Leetcode5/obj/Debug/net7.0/Leetcode5.AssemblyInfo.cs
+/Users/zakuro/Desktop/Leetcode/Leetcode5/Leetcode5/obj/Debug/net7.0/Leetcode5.csproj.CoreCompileInputs.cache
+/Users/zakuro/Desktop/Leetcode/Leetcode5/Leetcode5/bin/Debug/net7.0/Leetcode5
+/Users/zakuro/Desktop/Leetcode/Leetcode5/Leetcode5/bin/Debug/net7.0/Leetcode5.deps.json
+/Users/zakuro/Desktop/Leetcode/Leetcode5/Leetcode5/bin/Debug/net7.0/Leetcode5.runtimeconfig.json
+/Users/zakuro/Desktop/Leetcode/Leetcode5/Leetcode5/bin/Debug/net7.0/Leetcode5.dll
+/Users/zakuro/Desktop/Leetcode/Leetcode5/Leetcode5/bin/Debug/net7.0/Leetcode5.pdb
+/Users/zakuro/Desktop/Leetcode/Leetcode5/Leetcode5/obj/Debug/net7.0/Leetcode5.dll
+/Users/zakuro/Desktop/Leetcode/Leetcode5/Leetcode5/obj/Debug/net7.0/refint/Leetcode5.dll
+/Users/zakuro/Desktop/Leetcode/Leetcode5/Leetcode5/obj/Debug/net7.0/Leetcode5.pdb
+/Users/zakuro/Desktop/Leetcode/Leetcode5/Leetcode5/obj/Debug/net7.0/Leetcode5.genruntimeconfig.cache
+/Users/zakuro/Desktop/Leetcode/Leetcode5/Leetcode5/obj/Debug/net7.0/ref/Leetcode5.dll

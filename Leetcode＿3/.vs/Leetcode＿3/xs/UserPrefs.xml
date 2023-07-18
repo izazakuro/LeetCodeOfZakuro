@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{D690E702-62DE-4C30-AA4D-466C7D72048E}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Leetcode_4FF3F3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Leetcode＿3/Program.cs">
+    <Files>
+      <File FileName="Leetcode＿3/Program.cs" Line="38" Column="24" />
+      <File FileName="../../C#/静态成员/静态成员/Program.cs" Line="1" Column="1" />
+      <File FileName="../../C#/C01/Cpractice1/Cpractice1/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Leetcode＿3" expanded="True">
+            <Node name="Leetcode＿3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>str1</Value>
+          <Value>str2</Value>
+          <Value>&amp;str1</Value>
+          <Value>&amp;str2</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
