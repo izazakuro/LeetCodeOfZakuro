@@ -7,16 +7,17 @@ namespace 最长字符串
     {
         public int LengthOfLongestSubstring(string s)
         {
-            Dictionary<char, int> hashTable = new Dictionary<char, int>();
+            HashSet<char> letter = new HashSet<char>();
 
             int left = 0;
             int right = s.Length - 1;
             int count = 0;
             int length = s.Length;
+            int max = 0;
 
             while(right < length)
             {
-                if (!hashTable.ContainsKey(s[right]))
+                if (!letter.Contains(s[right]))
                 {
                     letter.Add(s[right]);
                     right++;

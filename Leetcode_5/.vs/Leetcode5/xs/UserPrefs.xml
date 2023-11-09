@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{B78AA8B6-5391-48C6-A2DE-E30F04B25626}|Default">
-  <MonoDevelop.Ide.ItemProperties.Leetcode5 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Leetcode5 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Leetcode5/Program.cs">
+    <Files>
+      <File FileName="Leetcode5/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Leetcode5">
+            <Node name="Leetcode5" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

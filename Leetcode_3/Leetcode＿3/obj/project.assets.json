@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zakuro/Desktop/Leetcode/Leetcode＿3/Leetcode＿3/Leetcode＿3.csproj",
+      "projectUniqueName": "/Users/zakuro/Desktop/Leetcode/Leetcode_3/Leetcode＿3/Leetcode＿3.csproj",
       "projectName": "Leetcode＿3",
-      "projectPath": "/Users/zakuro/Desktop/Leetcode/Leetcode＿3/Leetcode＿3/Leetcode＿3.csproj",
+      "projectPath": "/Users/zakuro/Desktop/Leetcode/Leetcode_3/Leetcode＿3/Leetcode＿3.csproj",
       "packagesPath": "/Users/zakuro/.nuget/packages/",
-      "outputPath": "/Users/zakuro/Desktop/Leetcode/Leetcode＿3/Leetcode＿3/obj/",
+      "outputPath": "/Users/zakuro/Desktop/Leetcode/Leetcode_3/Leetcode＿3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/zakuro/.nuget/NuGet/NuGet.Config"
